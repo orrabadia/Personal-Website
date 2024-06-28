@@ -1,5 +1,5 @@
 
-document.getElementById("date").innerHTML += getCurrentDayOfWeek() + '!'
+document.getElementById("date").innerHTML += " " + getCurrentDayOfWeek() + '!'
 
 //date script
 function getCurrentDayOfWeek() {
